@@ -30,5 +30,8 @@
       "description": "TextMeshPro Support",
       "path": "Samples~/TextMeshPro Support"
     }
-  ]
+  ],
+  "release": {
+    "branches": ["main"]
+  }
 }
