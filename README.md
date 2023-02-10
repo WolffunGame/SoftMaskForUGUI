@@ -5,6 +5,7 @@ SoftMaskForUGUI
 
 UI Soft Mask is a smooth masking component for Unity UI (uGUI) elements.
 
+
 ![](https://user-images.githubusercontent.com/12690315/50282438-18408d80-0496-11e9-8f86-81e804edadd4.png)
 
 [![](https://img.shields.io/npm/v/com.coffee.softmask-for-ugui?label=openupm&registry_uri=https://package.openupm.com)](https://openupm.com/packages/com.coffee.softmask-for-ugui/)
