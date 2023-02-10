@@ -15,7 +15,7 @@ namespace Coffee.UISoftMask
     public class SoftMask : Mask, IMeshModifier
     {
         /// <summary>
-        /// Down sampling rate.
+        /// Down sampling rate..
         /// </summary>
         public enum DownSamplingRate
         {
