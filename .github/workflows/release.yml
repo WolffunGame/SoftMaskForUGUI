@@ -25,4 +25,4 @@ jobs:
                                     
         env:
           GITHUB_TOKEN: ${{ github.token }}
-          NPM_TOKEB: ${{ secrets.NPM_TOKEN }}
+          NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
