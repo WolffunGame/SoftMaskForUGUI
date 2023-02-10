@@ -1,4 +1,5 @@
 {
+  "private": true,
   "name": "com.coffee.softmask-for-ugui",
   "displayName": "UI Soft Mask",
   "description": "UI Soft Mask is a smooth masking component for Unity UI (uGUI) elements.\nBy using SoftMask instead of the default Mask component, you can beautifully represent the rounded edges of UI elements.",
